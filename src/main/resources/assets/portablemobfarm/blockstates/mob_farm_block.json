@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "portablemobfarm:block/mob_farm_block"
+    }
+  }
+}

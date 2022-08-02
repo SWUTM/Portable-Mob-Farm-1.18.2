@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "portablemobfarm:block/chicken_farm_block"
+    }
+  }
+}
